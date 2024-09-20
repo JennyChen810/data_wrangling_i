@@ -1,0 +1,11 @@
+---
+title: "data manipulation"
+author: "Jianing Chen"
+date: "2024-09-20"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+```
+
